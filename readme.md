@@ -3,8 +3,20 @@
 
 A vanilla setup implies that the OS itself remains relatively untouched - and that the bulk of the Hackintosh-related kexts, patches, etc are contained on the EFI partition. For all intents and purposes, a vanilla install's main partition is identical to that of an official Apple computer.
 
-Most Infos grabbed from <https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/>
-Good Video: <https://www.youtube.com/watch?v=fA9AotXqkqA>
+***Most Infos grabbed from***<br>
+<https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/>
+
+***Good Video***<br>
+<https://www.youtube.com/watch?v=fA9AotXqkqA>
+
+### Hardware I'm using
+* Mainboard: Gigabyte Z390 UD
+* Intel Core i3-8100 6MB
+* 2 x Memory: 8GB DDR4 PC2400 non-ECC Crucial CT8G4DFS824A
+* Samsung 860 EVO TLC SSD 2,5" 250GB
+* SAPPHIRE Radeon RX 580 PULSE 8GB
+
+Set Bios Settings like described in the Video. I have disabled internal Graphics too.
 
 ## Creating USB Install Disk
 
