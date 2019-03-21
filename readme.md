@@ -85,6 +85,10 @@ At this moment we still using the USB Stick to boot the Macintosh HD. So we need
 * Remove EFI Folder from HDD and empty trash.
 * Copy EFI folder from USB Stick to HDDs EFI.
 
+## Sleep
+At this moment I do not know if sleep is working correctly. As I need this build as a storage server I do not need sleep anyway so I disabled everything:
+![](assets/screen7.png)
+
 ## Thats it!
 Set internal HDD to boot at first and have a lot of fun with your new Hacky!
 Hopefully we see a new cool MacPro in June '19 so we doesn't need to do it this way anymore.
